@@ -9,7 +9,6 @@ A Spring Boot REST API that provides weather information for Indian pincodes usi
 - **Database caching** for both pincode locations and weather data
 - **Optimized API calls** - reuses cached location data
 - **Comprehensive validation** and error handling
-- **Swagger documentation** for easy testing
 - **Test coverage** with unit and integration tests
 - **Java 21 support** with modern language features
 
@@ -19,7 +18,6 @@ A Spring Boot REST API that provides weather information for Indian pincodes usi
 - **Spring Data JPA** for database operations
 - **H2 Database** for development (easily switchable to MySQL/PostgreSQL)
 - **Spring Cache** for optimization
-- **Swagger/OpenAPI** for API documentation
 - **JUnit 5** and **Mockito** for testing
 
 ## Java 21 Features Used
